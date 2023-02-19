@@ -1,3 +1,5 @@
+namespace LeetCode.Challenges.ZigzacConversions0006;
+
 public class Solution {
     public string Convert(string s, int numRows) {
         string[] rows = new string[numRows];

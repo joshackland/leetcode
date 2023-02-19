@@ -1,3 +1,5 @@
+namespace LeetCode.Challenges.PalindromeNumber0009;
+
 public class Solution {
     public bool IsPalindrome(int x) {
         if (x < 0) return false;

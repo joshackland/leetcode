@@ -1,3 +1,5 @@
+namespace LeetCode.Challenges.LongestPalindrome0005;
+
 public class Solution {
     public string LongestPalindrome(string s) {
         string LongestPalindrome = s[0].ToString();

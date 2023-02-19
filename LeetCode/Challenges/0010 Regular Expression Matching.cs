@@ -1,3 +1,5 @@
+namespace LeetCode.Challenges.RegularExpressionMatching0010;
+
 public class Solution {
     public bool IsMatch(string s, string p) {
         int sLocation = 0;

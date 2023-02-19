@@ -1,3 +1,5 @@
+namespace LeetCode.Challenges.StringToInteger0008;
+
 public class Solution {
     public int MyAtoi(string s) {
         int output = 0;

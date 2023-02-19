@@ -1,3 +1,5 @@
+namespace LeetCode.Challenges.ReverseInteger0007;
+
 public class Solution {
     public int Reverse(int x) {     
         bool isNegative = x < 0;

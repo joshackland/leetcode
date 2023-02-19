@@ -1,3 +1,5 @@
+namespace LeetCode.Challenges.MedianOfTwoSortedArrays0004;
+
 public class Solution {
     public double FindMedianSortedArrays(int[] nums1, int[] nums2) {
         int length = nums1.Length + nums2.Length;

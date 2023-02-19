@@ -1,14 +1,14 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     public int val;
- *     public ListNode next;
- *     public ListNode(int val=0, ListNode next=null) {
- *         this.val = val;
- *         this.next = next;
- *     }
- * }
- */
+namespace LeetCode.Challenges.AddTwoNumbers0002;
+
+public class ListNode {
+     public int val;
+     public ListNode next;
+     public ListNode(int val=0, ListNode next=null) {
+         this.val = val;
+         this.next = next;
+     }
+}
+
 public class Solution {
     public ListNode AddTwoNumbers(ListNode l1, ListNode l2) {        
         for(ListNode node = l1; node != null; node=node.next){
