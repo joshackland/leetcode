@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.Template0000;
+﻿using LeetCode.Challenges.ContainerWithMostWater0011;
 
-Template0000.Test();
+ContainerWithMostWater0011.Test();
