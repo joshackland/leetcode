@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.LongestCommonPrefix0014;
+﻿using LeetCode.Challenges._3Sum0015;
 
-LongestCommonPrefix0014.Test();
+_3Sum0015.Test();
