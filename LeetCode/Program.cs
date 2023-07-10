@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._3SumClosest0016;
+﻿using LeetCode.Challenges.LetterCombinationsOfAPhoneNumber0017;
 
-_3SumClosest0016.Test();
+LetterCombinationsOfAPhoneNumber0017.Test();
