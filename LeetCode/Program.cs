@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._3Sum0015;
+﻿using LeetCode.Challenges._3SumClosest0016;
 
-_3Sum0015.Test();
+_3SumClosest0016.Test();
