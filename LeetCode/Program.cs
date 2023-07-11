@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._4Sum0018;
+﻿using LeetCode.Challenges.RemoveNthNodeFromEndOfLIst0019;
 
-_4Sum0018.Test();
+RemoveNthNodeFromEndOfLIst0019.Test();
