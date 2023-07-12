@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.RemoveNthNodeFromEndOfLIst0019;
+﻿using LeetCode.Challenges.MergeTwoSortedLists0021;
 
-RemoveNthNodeFromEndOfLIst0019.Test();
+MergeTwoSortedLists0021.Test();
