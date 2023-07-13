@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.MergeTwoSortedLists0021;
+﻿using LeetCode.Challenges.GenerateParentheses0022;
 
-MergeTwoSortedLists0021.Test();
+GenerateParentheses0022.Test();
