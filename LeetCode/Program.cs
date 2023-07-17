@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.MergeKSortedLists0023;
+﻿using LeetCode.Challenges.SwapNodesInPairs0024;
 
-MergeKSortedLists0023.Test();
+SwapNodesInPairs0024.Test();
