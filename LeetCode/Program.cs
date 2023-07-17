@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.SwapNodesInPairs0024;
+﻿using LeetCode.Challenges.ReverseNodesInKGroup0025;
 
-SwapNodesInPairs0024.Test();
+ReverseNodesInKGroup0025.Test();
