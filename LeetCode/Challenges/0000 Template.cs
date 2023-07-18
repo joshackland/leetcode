@@ -17,8 +17,10 @@ public static class Template0000
     {
         var solution = new Solution();
 
-        foreach (var (input, expectedOutput) in Inputs.Zip(ExpectedOutputs))
+        for (int i = 0; i < Inputs.Count; i++)
         {
+            var input = Inputs[i];
+            var expectedOutput = ExpectedOutputs[i];
             var actualOutput = solution.Template(input);
             Console.WriteLine($"Input: {input}, Expected Output: {expectedOutput}, Actual Output: {actualOutput}");
         }
