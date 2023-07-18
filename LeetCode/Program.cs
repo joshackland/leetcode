@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.RemoveElement0027;
+﻿using LeetCode.Challenges.FindTheIndexOfTheFirstOccurrenceInAString0028;
 
-RemoveElement0027.Test();
+FindTheIndexOfTheFirstOccurrenceInAString0028.Test();
