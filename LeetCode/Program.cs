@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.ReverseNodesInKGroup0025;
+﻿using LeetCode.Challenges.RemoveDuplicatesFromSortedArray0026;
 
-ReverseNodesInKGroup0025.Test();
+RemoveDuplicatesFromSortedArray0026.Test();
