@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.RemoveDuplicatesFromSortedArray0026;
+﻿using LeetCode.Challenges.RemoveElement0027;
 
-RemoveDuplicatesFromSortedArray0026.Test();
+RemoveElement0027.Test();
