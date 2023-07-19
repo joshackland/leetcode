@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.FindTheIndexOfTheFirstOccurrenceInAString0028;
+﻿using LeetCode.Challenges.DivideTwoIntegers0029;
 
-FindTheIndexOfTheFirstOccurrenceInAString0028.Test();
+DivideTwoIntegers0029.Test();
