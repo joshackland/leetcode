@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.DivideTwoIntegers0029;
+﻿using LeetCode.Challenges.SubstringWithConcatenationOfAllWords0030;
 
-DivideTwoIntegers0029.Test();
+SubstringWithConcatenationOfAllWords0030.Test();
