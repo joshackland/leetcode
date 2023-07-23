@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.FindTheIndexOfTheFirstOccurrenceInAString0028
+﻿namespace LeetCode.Challenges._0028FindTheIndexOfTheFirstOccurrenceInAString
     ;
 
 public class Solution
@@ -16,7 +16,7 @@ public class Solution
     }
 }
 
-public static class FindTheIndexOfTheFirstOccurrenceInAString0028
+public static class _0028FindTheIndexOfTheFirstOccurrenceInAString
 {
     private static List<string> Haystacks = new List<string>() 
     { 

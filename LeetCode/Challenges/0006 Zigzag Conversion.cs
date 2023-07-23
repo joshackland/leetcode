@@ -1,4 +1,4 @@
-namespace LeetCode.Challenges.ZigzacConversions0006;
+namespace LeetCode.Challenges._0006ZigzacConversions;
 
 public class Solution {
     public string Convert(string s, int numRows) {

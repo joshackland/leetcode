@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges._3SumClosest0016;
+﻿namespace LeetCode.Challenges._00163SumClosest;
 
 public class Solution
 {
@@ -52,7 +52,7 @@ public class Solution
     }
 }
 
-public static class _3SumClosest0016
+public static class _00163SumClosest
 {
     private static List<int[]> Inputs = new List<int[]>()
     {

@@ -1,6 +1,6 @@
 ﻿using System.Security;
 
-namespace LeetCode.Challenges.IntegerToRoman0012;
+namespace LeetCode.Challenges._0012IntegerToRoman;
 
 public class Solution
 {
@@ -46,7 +46,7 @@ public class Solution
     }
 }
 
-public static class IntegerToRoman0012
+public static class _0012IntegerToRoman
 {
     private static List<int> Inputs = new List<int>() { 3, 58, 1994 };
     private static List<string> ExpectedOutputs= new List<string>() { "III", "LVIII", "MCMXCIV" };

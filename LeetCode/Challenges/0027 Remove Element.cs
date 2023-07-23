@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.RemoveElement0027;
+﻿namespace LeetCode.Challenges._0027RemoveElement;
 
 public class Solution
 {
@@ -19,7 +19,7 @@ public class Solution
     }
 }
 
-public static class RemoveElement0027
+public static class _0027RemoveElement
 {
     private static List<int[]> Inputs = new List<int[]>()
     { 

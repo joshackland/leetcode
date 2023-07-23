@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.GenerateParentheses0022;
+﻿namespace LeetCode.Challenges._0022GenerateParentheses;
 
 public class Solution
 {
@@ -97,7 +97,7 @@ public class Solution
     }
 }
 
-public static class GenerateParentheses0022
+public static class _0022GenerateParentheses
 {
     private static List<int> Inputs = new List<int>() { 4, 3, 1 };
     private static List<List<string>> ExpectedOutputs = new List<List<string>>()

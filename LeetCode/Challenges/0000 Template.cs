@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.Template0000;
+﻿namespace LeetCode.Challenges._0000Template;
 
 public class Solution
 {
@@ -8,7 +8,7 @@ public class Solution
     }
 }
 
-public static class Template0000
+public static class _0000Template
 {
     private static List<int> Inputs = new List<int>() { 1, 2, 3 };
     private static List<int> ExpectedOutputs= new List<int>() { 2, 3, 4 };

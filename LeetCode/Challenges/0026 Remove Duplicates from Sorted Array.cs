@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.RemoveDuplicatesFromSortedArray0026;
+﻿namespace LeetCode.Challenges._0026RemoveDuplicatesFromSortedArray;
 
 public class Solution
 {
@@ -21,7 +21,7 @@ public class Solution
     }
 }
 
-public static class RemoveDuplicatesFromSortedArray0026
+public static class _0026RemoveDuplicatesFromSortedArray
 {
     private static List<int[]> Inputs = new List<int[]>()
     { 

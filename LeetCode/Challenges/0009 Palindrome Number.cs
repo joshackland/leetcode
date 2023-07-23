@@ -1,4 +1,4 @@
-namespace LeetCode.Challenges.PalindromeNumber0009;
+namespace LeetCode.Challenges._0009PalindromeNumber;
 
 public class Solution {
     public bool IsPalindrome(int x) {

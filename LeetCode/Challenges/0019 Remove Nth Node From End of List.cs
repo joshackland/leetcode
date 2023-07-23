@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.RemoveNthNodeFromEndOfLIst0019;
+﻿namespace LeetCode.Challenges._0019RemoveNthNodeFromEndOfLIst;
 public class ListNode
 {
     public int val;
@@ -37,7 +37,7 @@ public class Solution
     }
 }
 
-public static class RemoveNthNodeFromEndOfLIst0019
+public static class _0019RemoveNthNodeFromEndOfLIst
 {
     private static List<List<int>> Inputs = new List<List<int>>()
     {

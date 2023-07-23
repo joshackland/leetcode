@@ -1,4 +1,4 @@
-namespace LeetCode.Challenges.RegularExpressionMatching0010;
+namespace LeetCode.Challenges._0010RegularExpressionMatching;
 
 public class Solution {
     public bool IsMatch(string s, string p) {

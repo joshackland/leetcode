@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace LeetCode.Challenges.ReverseNodesInKGroup0025
+namespace LeetCode.Challenges._0025ReverseNodesInKGroup
 
 ;
 public class ListNode
@@ -92,7 +92,7 @@ public class Solution
     }
 }
 
-public static class ReverseNodesInKGroup0025
+public static class _0025ReverseNodesInKGroup
 {
     private static List<List<int>> Inputs = new List<List<int>>()
     {

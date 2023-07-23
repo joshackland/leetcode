@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.LetterCombinationsOfAPhoneNumber0017;
+﻿namespace LeetCode.Challenges._0017LetterCombinationsOfAPhoneNumber;
 
 public class Solution
 {
@@ -45,7 +45,7 @@ public class Solution
     }
 }
 
-public static class LetterCombinationsOfAPhoneNumber0017
+public static class _0017LetterCombinationsOfAPhoneNumber
 {
     private static List<string> Inputs = new List<string>() { "23", "", "2" };
     private static List<List<string>> ExpectedOutputs= new List<List<string>>()

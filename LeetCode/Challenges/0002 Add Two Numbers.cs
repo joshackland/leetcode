@@ -1,4 +1,4 @@
-namespace LeetCode.Challenges.AddTwoNumbers0002;
+namespace LeetCode.Challenges._0002AddTwoNumbers;
 
 public class ListNode {
      public int val;

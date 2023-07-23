@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.LongestCommonPrefix0014;
+﻿namespace LeetCode.Challenges._0014LongestCommonPrefix;
 
 public class Solution
 {
@@ -32,7 +32,7 @@ public class Solution
     }
 }
 
-public static class LongestCommonPrefix0014
+public static class _0014LongestCommonPrefix
 {
     private static List<string[]> Inputs = new List<string[]> { 
         new string[] { "flower", "flow", "flight" },

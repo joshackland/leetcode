@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.RomanToInteger0013;
+﻿namespace LeetCode.Challenges._0013RomanToInteger;
 
 public class Solution
 {
@@ -98,7 +98,7 @@ public class Solution
     }
 }
 
-public static class RomanToInteger0013
+public static class _0013RomanToInteger
 {
     private static List<string> Inputs = new List<string>() { "III", "LVIII", "MCMXCIV" };
     private static List<int> ExpectedOutputs= new List<int>() { 3, 58, 1994 };

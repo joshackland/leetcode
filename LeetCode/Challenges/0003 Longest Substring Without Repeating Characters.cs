@@ -1,4 +1,4 @@
-namespace LeetCode.Challenges.LongestSubstringWithoutRepeatingCharacters0003;
+namespace LeetCode.Challenges._0003LongestSubstringWithoutRepeatingCharacters;
 public class Solution {
     public int LengthOfLongestSubstring(string s) {
         int count = 0;

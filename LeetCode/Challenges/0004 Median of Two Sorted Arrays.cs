@@ -1,4 +1,4 @@
-namespace LeetCode.Challenges.MedianOfTwoSortedArrays0004;
+namespace LeetCode.Challenges._0004MedianOfTwoSortedArrays;
 
 public class Solution {
     public double FindMedianSortedArrays(int[] nums1, int[] nums2) {

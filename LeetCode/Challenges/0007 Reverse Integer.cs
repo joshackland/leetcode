@@ -1,4 +1,4 @@
-namespace LeetCode.Challenges.ReverseInteger0007;
+namespace LeetCode.Challenges._0007ReverseInteger;
 
 public class Solution {
     public int Reverse(int x) {     

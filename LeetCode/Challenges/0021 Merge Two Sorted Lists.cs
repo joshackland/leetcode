@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.MergeTwoSortedLists0021
+﻿namespace LeetCode.Challenges._0021MergeTwoSortedLists
 ;
 public class ListNode
 {
@@ -59,7 +59,7 @@ public class Solution
     }
 }
 
-public static class MergeTwoSortedLists0021
+public static class _0021MergeTwoSortedLists
 {
     private static List<List<int>> List1 = new List<List<int>>()
     {

@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges._3Sum0015;
+﻿namespace LeetCode.Challenges._00153Sum;
 
 public class Solution
 {
@@ -64,7 +64,7 @@ public class Solution
     }
 }
 
-public static class _3Sum0015
+public static class _00153Sum
 {
     private static List<int[]> Inputs = new List<int[]>()
     {

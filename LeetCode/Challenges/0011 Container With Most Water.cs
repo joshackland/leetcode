@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.ContainerWithMostWater0011;
+﻿namespace LeetCode.Challenges._0011ContainerWithMostWater;
 
 public class Solution
 {
@@ -25,7 +25,7 @@ public class Solution
     }
 }
 
-public static class ContainerWithMostWater0011
+public static class _0011ContainerWithMostWater
 {
     private static List<int[]> Inputs = new List<int[]>() { new int[] { 1, 8, 6, 2, 5, 4, 8, 3, 7 } } ;
     private static List<int> ExpectedOutputs = new List<int>() { 49 };

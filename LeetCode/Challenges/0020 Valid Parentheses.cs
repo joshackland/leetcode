@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.ValidParentheses0020;
+﻿namespace LeetCode.Challenges._0020ValidParentheses;
 
 public class Solution
 {
@@ -29,7 +29,7 @@ public class Solution
     }
 }
 
-public static class ValidParentheses0020
+public static class _0020ValidParentheses
 {
     private static List<string> Inputs = new List<string>() { "()", "()[]{}", "(]" };
     private static List<bool> ExpectedOutputs = new List<bool>() { true, true, false };

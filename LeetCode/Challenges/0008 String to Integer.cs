@@ -1,4 +1,4 @@
-namespace LeetCode.Challenges.StringToInteger0008;
+namespace LeetCode.Challenges._0008StringToInteger;
 
 public class Solution {
     public int MyAtoi(string s) {

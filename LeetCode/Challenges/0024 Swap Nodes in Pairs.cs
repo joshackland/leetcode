@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace LeetCode.Challenges.SwapNodesInPairs0024
+namespace LeetCode.Challenges._0024SwapNodesInPairs
 
 ;
 public class ListNode
@@ -41,7 +41,7 @@ public class Solution
     }
 }
 
-public static class SwapNodesInPairs0024
+public static class _0024SwapNodesInPairs
 {
     private static List<List<int>> Inputs = new List<List<int>>()
     {

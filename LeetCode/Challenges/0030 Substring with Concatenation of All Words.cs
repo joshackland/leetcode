@@ -1,6 +1,4 @@
-﻿using System.Data.SqlTypes;
-
-namespace LeetCode.Challenges.SubstringWithConcatenationOfAllWords0030;
+﻿namespace LeetCode.Challenges._0030SubstringWithConcatenationOfAllWords;
 
 public class Solution
 {
@@ -54,7 +52,7 @@ public class Solution
     }
 }
 
-public static class SubstringWithConcatenationOfAllWords0030
+public static class _0030SubstringWithConcatenationOfAllWords
 {
     private static List<string> Inputs = new List<string>() 
     {

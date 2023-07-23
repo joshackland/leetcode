@@ -1,4 +1,4 @@
-namespace LeetCode.Challenges.TwoSum0001;
+namespace LeetCode.Challenges._0001TwoSum;
 
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {

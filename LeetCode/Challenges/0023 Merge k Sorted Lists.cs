@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace LeetCode.Challenges.MergeKSortedLists0023
+namespace LeetCode.Challenges._0023MergeKSortedLists
 
 ;
 public class ListNode
@@ -64,7 +64,7 @@ public class Solution
     }
 }
 
-public static class MergeKSortedLists0023
+public static class _0023MergeKSortedLists
 {
     private static List<List<int[]>> Lists = new List<List<int[]>>()
     {

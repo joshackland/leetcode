@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges.SubstringWithConcatenationOfAllWords0030;
+﻿using LeetCode.Challenges._0030SubstringWithConcatenationOfAllWords;
 
-SubstringWithConcatenationOfAllWords0030.Test();
+_0030SubstringWithConcatenationOfAllWords.Test();
