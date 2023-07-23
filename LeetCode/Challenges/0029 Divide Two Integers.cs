@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Challenges.DivideTwoIntegers0029;
+﻿namespace LeetCode.Challenges._0029DivideTwoIntegers;
 
 public class Solution
 {
@@ -52,7 +52,7 @@ public class Solution
     }
 }
 
-public static class DivideTwoIntegers0029
+public static class _0029DivideTwoIntegers
 {
     private static List<int> Dividends = new List<int>() {2, 10, 7 };
     private static List<int> Divisors = new List<int>() {2, 3, -3 };
