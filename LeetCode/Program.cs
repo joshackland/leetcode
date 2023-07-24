@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0032LongestValidParentheses;
+﻿using LeetCode.Challenges._0033SearchInRotatedSortedArray;
 
-_0032LongestValidParentheses.Test();
+_0033SearchInRotatedSortedArray.Test();
