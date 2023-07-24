@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0031NextPermutation;
+﻿using LeetCode.Challenges._0032LongestValidParentheses;
 
-_0031NextPermutation.Test();
+_0032LongestValidParentheses.Test();
