@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0034FindFirstAndLastPositionOfElementInSortedArray;
+﻿using LeetCode.Challenges._0035SearchInsertPosition;
 
-_0034FindFirstAndLastPositionOfElementInSortedArray.Test();
+_0035SearchInsertPosition.Test();
