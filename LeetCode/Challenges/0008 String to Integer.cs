@@ -3,7 +3,6 @@ namespace LeetCode.Challenges._0008StringToInteger;
 public class Solution {
     public int MyAtoi(string s) {
         int output = 0;
-        bool isPositive = true;
         string strOutput = "";
         bool numFound = false;
         bool symbolFound = false;
