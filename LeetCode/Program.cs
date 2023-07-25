@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0035SearchInsertPosition;
+﻿using LeetCode.Challenges._0036ValidSudoku;
 
-_0035SearchInsertPosition.Test();
+_0036ValidSudoku.Test();
