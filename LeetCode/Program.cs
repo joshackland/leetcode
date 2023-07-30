@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0037SudokuSolver;
+﻿using LeetCode.Challenges._0038CountAndSay;
 
-_0037SudokuSolver.Test();
+_0038CountAndSay.Test();
