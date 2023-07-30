@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0036ValidSudoku;
+﻿using LeetCode.Challenges._0037SudokuSolver;
 
-_0036ValidSudoku.Test();
+_0037SudokuSolver.Test();
