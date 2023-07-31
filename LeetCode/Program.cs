@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0039CombinationSum;
+﻿using LeetCode.Challenges._0040CombinationSumII;
 
-_0039CombinationSum.Test();
+_0040CombinationSumII.Test();
