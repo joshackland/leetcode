@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0041FirstMissingPositive;
+﻿using LeetCode.Challenges._0042TrappingRainWater;
 
-_0041FirstMissingPositive.Test();
+_0042TrappingRainWater.Test();
