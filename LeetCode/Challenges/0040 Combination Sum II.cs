@@ -82,7 +82,7 @@ public static class _0040CombinationSumII
             var input = Inputs[i];
             var target = Targets[i];
             var expectedOutput = ExpectedOutputs[i];
-            var actualOutput = solution.CombinationSum(input, target);
+            var actualOutput = solution.CombinationSum2(input, target);
             Console.WriteLine($"Input: {string.Join(',',input)}, Target: {target}, Expected Output: {JoinLists(expectedOutput)}, Actual Output: {JoinLists(actualOutput)}");
         }
     }
