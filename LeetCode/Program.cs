@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0040CombinationSumII;
+﻿using LeetCode.Challenges._0041FirstMissingPositive;
 
-_0040CombinationSumII.Test();
+_0041FirstMissingPositive.Test();
