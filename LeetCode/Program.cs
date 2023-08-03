@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0042TrappingRainWater;
+﻿using LeetCode.Challenges._0043MultiplyStrings;
 
-_0042TrappingRainWater.Test();
+_0043MultiplyStrings.Test();
