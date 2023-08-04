@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0043MultiplyStrings;
+﻿using LeetCode.Challenges._0044WildcardMatching;
 
-_0043MultiplyStrings.Test();
+_0044WildcardMatching.Test();
