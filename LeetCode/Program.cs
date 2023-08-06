@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0045JumpGameII;
+﻿using LeetCode.Challenges._0046Permutations;
 
-_0045JumpGameII.Test();
+_0046Permutations.Test();
