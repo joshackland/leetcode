@@ -6,7 +6,7 @@ namespace LeetCode.Challenges._0047PermutationsII;
 public class Solution
 {
     public List<IList<int>> output;
-    public IList<IList<int>> Permute(int[] nums)
+    public IList<IList<int>> PermuteUnique(int[] nums)
     {
         output = new List<IList<int>>();
 
@@ -82,7 +82,7 @@ public static class _0047PermutationsII
         {
             var input = Inputs[i];
             var expectedOutput = ExpectedOutputs[i];
-            var actualOutput = solution.Permute(input);
+            var actualOutput = solution.PermuteUnique(input);
             Console.WriteLine($"Input: {string.Join(',',input)}, Expected Output: {DisplayOutput(expectedOutput)}, Actual Output: {DisplayOutput(actualOutput)}");
         }
     }
