@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0044WildcardMatching;
+﻿using LeetCode.Challenges._0045JumpGameII;
 
-_0044WildcardMatching.Test();
+_0045JumpGameII.Test();
