@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0048RotateImage;
+﻿using LeetCode.Challenges._0049GroupAnagrams;
 
-_0048RotateImage.Test();
+_0049GroupAnagrams.Test();
