@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0049GroupAnagrams;
+﻿using LeetCode.Challenges._0050PowXN;
 
-_0049GroupAnagrams.Test();
+_0050PowXN.Test();
