@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0047PermutationsII;
+﻿using LeetCode.Challenges._0048RotateImage;
 
-_0047PermutationsII.Test();
+_0048RotateImage.Test();
