@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0050PowXN;
+﻿using LeetCode.Challenges._0051NQueens;
 
-_0050PowXN.Test();
+_0051NQueens.Test();
