@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0053MaximumSubarray;
+﻿using LeetCode.Challenges._0054SpiralMatrix;
 
-_0053MaximumSubarray.Test();
+_0054SpiralMatrix.Test();
