@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0057InsertInterval;
+﻿using LeetCode.Challenges._0058LengthOfLastWord;
 
-_0057InsertInterval.Test();
+_0058LengthOfLastWord.Test();
