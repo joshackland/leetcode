@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0056MergeIntervals;
+﻿using LeetCode.Challenges._0057InsertInterval;
 
-_0056MergeIntervals.Test();
+_0057InsertInterval.Test();
