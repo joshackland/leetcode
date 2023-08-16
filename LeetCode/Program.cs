@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0054SpiralMatrix;
+﻿using LeetCode.Challenges._0055JumpGame;
 
-_0054SpiralMatrix.Test();
+_0055JumpGame.Test();
