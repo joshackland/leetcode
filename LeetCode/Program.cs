@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0055JumpGame;
+﻿using LeetCode.Challenges._0056MergeIntervals;
 
-_0055JumpGame.Test();
+_0056MergeIntervals.Test();
