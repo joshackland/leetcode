@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0058LengthOfLastWord;
+﻿using LeetCode.Challenges._0059SpiralMatrixII;
 
-_0058LengthOfLastWord.Test();
+_0059SpiralMatrixII.Test();
