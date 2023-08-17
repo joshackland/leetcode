@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0059SpiralMatrixII;
+﻿using LeetCode.Challenges._0060PermutationSequence;
 
-_0059SpiralMatrixII.Test();
+_0060PermutationSequence.Test();
