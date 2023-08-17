@@ -1,3 +1,3 @@
-﻿using LeetCode.Challenges._0060PermutationSequence;
+﻿using LeetCode.Challenges._0061RotateList;
 
-_0060PermutationSequence.Test();
+_0061RotateList.Test();
