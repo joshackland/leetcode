@@ -1,3 +1,4 @@
-﻿using LeetCode.Challenges._0061RotateList;
+﻿using LeetCode.Challenges._0062UniquePaths;
+using LeetCode.Challenges._0062UniquePaths;
 
-_0061RotateList.Test();
+_0062UniquePaths.Test();
