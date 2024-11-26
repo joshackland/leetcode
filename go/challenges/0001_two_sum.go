@@ -14,7 +14,7 @@ func twoSum(nums []int, target int) []int {
 	return nil
 }
 
-func main() {
+func main0001() {
 	input := []int{2, 7, 11, 15}
 	target := 9
 	expectedResult := []int{0, 1}
